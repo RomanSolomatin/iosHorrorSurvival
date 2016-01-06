@@ -1,0 +1,6 @@
+cookeddata/ioshorrorsurvival/config/defaultinput.ini
+cookeddata/engine/globalshadercache-glsl_es2_ios.bin
+cookeddata/engine/globalshadercache-sf_metal.bin
+cookeddata/ioshorrorsurvival/assetregistry.bin
+Manifest_NonUFSFiles.txt
+Manifest_UFSFiles.txt
