@@ -1,5 +1,4 @@
 cookeddata/ioshorrorsurvival/ioshorrorsurvival.uproject
-cookeddata/ioshorrorsurvival/config/defaultengine.ini
 cookeddata/engine/globalshadercache-glsl_es2_ios.bin
 cookeddata/engine/globalshadercache-sf_metal.bin
 cookeddata/engine/content/arttools/rendertotexture/enums/rendertotexture_enum.uasset
@@ -46,6 +45,7 @@ cookeddata/engine/content/editormaterials/mat_groups_visibility.uasset
 cookeddata/engine/content/editormaterials/makecompositeargblayer.uasset
 cookeddata/engine/content/editormaterials/matineecam_mat.uasset
 cookeddata/engine/content/editormaterials/personafloormat.uasset
+cookeddata/engine/content/editormaterials/personasky.uasset
 cookeddata/engine/content/editormaterials/phat_jointlimitmaterial.uasset
 cookeddata/engine/content/editormaterials/previewshadowindicator.uasset
 cookeddata/engine/content/editormaterials/previewshadowindicatormaterial.uasset
@@ -125,6 +125,7 @@ cookeddata/engine/content/editorsounds/notifications/compilefailed_cue.uasset
 cookeddata/engine/content/editorsounds/notifications/compilestart_cue.uasset
 cookeddata/engine/content/editorsounds/notifications/compilesuccess.uasset
 cookeddata/engine/content/editorsounds/notifications/compilesuccess_cue.uasset
+cookeddata/engine/content/engineanimnotifies/animnotify_playsound.uasset
 cookeddata/engine/content/enginedamagetypes/dmgtypebp_environmental.uasset
 cookeddata/engine/content/enginedebugmaterials/boneweightmaterial.uasset
 cookeddata/engine/content/enginedebugmaterials/debugmeshmaterial.uasset
@@ -219,6 +220,10 @@ cookeddata/engine/content/functions/materiallayerfunctions/matlayerblend_simple.
 cookeddata/engine/content/maptemplates/bokeh_5sides.uasset
 cookeddata/engine/content/maptemplates/t_screendirt02_w.uasset
 cookeddata/engine/content/maptemplates/sky/daylightambientcubemap.uasset
+cookeddata/engine/content/maptemplates/sky/m_procedural_sky_master02.uasset
+cookeddata/engine/content/maptemplates/sky/sm_skysphere.uasset
+cookeddata/engine/content/maptemplates/sky/t_sky_stars.uasset
+cookeddata/engine/content/maptemplates/sky/t_udk_sky_cloudmask01_n.uasset
 cookeddata/engine/content/maps/templates/thumbnails/default.uasset
 cookeddata/engine/content/mobileresources/t_mobilecontrols_texture.uasset
 cookeddata/engine/content/mobileresources/t_mobilemenu2.uasset
@@ -256,7 +261,9 @@ cookeddata/engine/content/tutorial/landscape/landscape_sculpt_mode.uasset
 cookeddata/engine/content/tutorial/landscape/tutorialassets/landscape.uasset
 cookeddata/engine/content/tutorial/mobile/creatingsigningcertandprovisiontutorial.uasset
 cookeddata/engine/content/tutorial/mobile/tutorialassets/ios.uasset
+cookeddata/engine/content/tutorial/subeditors/personaanimeditorwalkthrough.uasset
 cookeddata/engine/content/tutorial/subeditors/staticmesheditortutorial.uasset
+cookeddata/engine/content/tutorial/subeditors/tutorialassets/icon_showskeletalmeshes_40x.uasset
 cookeddata/engine/plugins/2d/paper2d/content/defaultpaperterrainmaterial.uasset
 cookeddata/engine/plugins/2d/paper2d/content/defaultspritematerial.uasset
 cookeddata/engine/plugins/2d/paper2d/content/dummysprite.uasset
@@ -273,6 +280,7 @@ cookeddata/ioshorrorsurvival/content/thirdpersonbp/animations/thirdpersonjump_lo
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/animations/thirdpersonjump_start.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/animations/thirdpersonrun.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/animations/thirdpersonwalk.uasset
+cookeddata/ioshorrorsurvival/content/thirdpersonbp/blueprints/headbobbing.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/blueprints/thirdpersoncharacter.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/blueprints/thirdpersongamemode.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/character/materials/m_ue4man_body.uasset
@@ -300,5 +308,9 @@ cookeddata/ioshorrorsurvival/content/thirdpersonbp/meshes/leftarm_staticmesh.uas
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/meshes/linear_stair_staticmesh.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/meshes/ramp_staticmesh.uasset
 cookeddata/ioshorrorsurvival/content/thirdpersonbp/meshes/rightarm_staticmesh.uasset
+cookeddata/ioshorrorsurvival/content/thirdpersonbp/sounds/concrete_footstep.uasset
+cookeddata/ioshorrorsurvival/content/thirdpersonbp/sounds/cue_concrete_footstep.uasset
+cookeddata/ioshorrorsurvival/content/thirdpersonbp/sounds/cue_jacket_swish.uasset
+cookeddata/ioshorrorsurvival/content/thirdpersonbp/sounds/jacket_swish.uasset
 Manifest_NonUFSFiles.txt
 Manifest_UFSFiles.txt
