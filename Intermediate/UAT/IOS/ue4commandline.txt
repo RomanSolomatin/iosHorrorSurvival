@@ -1,1 +1,1 @@
-../../../iosHorrorSurvival/iosHorrorSurvival.uproject  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -Messaging -SessionId=F655BA1702405EC8E8266E947AA4F961 -SessionOwner=home -SessionName='Play On Device' -iterative
+../../../iosHorrorSurvival/iosHorrorSurvival.uproject  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -Messaging -SessionId=40629A2DC445B6FA8315719FA6DB0B3F -SessionOwner=home -SessionName='Play On Device' -iterative
